@@ -4,5 +4,5 @@ import sqlite3
 
 my_link = ""
 
-browser = mechancialsoup.StatefulBrowser()
+browser = mechanicalsoup.StatefulBrowser()
 browser.open(my_link)
